@@ -4,3 +4,5 @@
 
 # cmake
 cmake-build-debug/
+src/cpp/lesson3/CMakeLists.txt
+src/cpp/lesson4/CMakeLists.txt
